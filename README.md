@@ -68,6 +68,11 @@
 ![alt text](images/imagenColaborador2.png)
 5.	Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
 6.	¿Que sucedió?
+- Solo tomo los cambios del owner.
+Y lanzo los iguientes menssajes:
+En el caso del propietario.
+![alt text](images/imagenFunciono.png)
+En el caso del colaborator.
 7.	La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos `<<<` `===` y `>>>` (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
          [Como resolver Conflictos GitHub](https://docs.github.com/es/enterprise-cloud@latest/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
          
