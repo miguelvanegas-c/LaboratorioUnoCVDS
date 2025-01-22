@@ -35,9 +35,22 @@
 - Ya fue hecho en la primera parte, debido a que el repositorio fue clonado.
   
 7.	Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3	
-- Los cambios en el md hechos hasta el momento han sido subidos, tal y como se muestra en el ssiguiente pantallazo.
-
+- Los cambios en el md hechos hasta el momento han sido subidos, tal y como se muestra en el siguiente pantallazo.
+![alt text](images/imagenUpdate.png)
+- Se hizo uso de los siguientes comandos
+    ```bash
+        git add .
+        git commit -m "Update repository"
+        git push origin main
+    ```
 
 8.	Configura el correo en git local de manera correcta
-     [Configurar correo electrónico en GitHub](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
+- Para realizar la configuracion se usaron los siguientes comandos.
+    ```bash
+        git config --global user.name "Miguel Vanegas"
+        git config --global user.email "miguel.vanegas-c@mail.escuelaing.edu.co"
+
+    ```
+
 9.	Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
+- Los cambios se realizaron de forma correcta.
