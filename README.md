@@ -106,4 +106,6 @@ Se solucionan y acto seguido se realiza el add, commit y pull.
 Después de confirmar que los cambios son los esperados, aplicamos la resolucion.
 De esta forma ya sabes resolver conflictos directamente sobre los archivos y usando un IDE como IntelliJ, esto te será muy útil en los futuros trabajos en equipo con Git.
 
+nicolas parte 3
+
 
