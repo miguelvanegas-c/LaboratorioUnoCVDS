@@ -3,7 +3,7 @@
 ### Miguel Angel Vanegas Cardenas
 ### Nicolas Andres Duarte
 # Description
-- En este tutorial sse realizo un tutorial para aprender las bases del uso de github.
+- En este repositorio se realizo un tutorial para aprender las bases del uso de github.
 # Laboratorio numero 1.
 - Prueba uso de visual para escribir el README.md.
   ![alt text](images/imagenMD.png)
